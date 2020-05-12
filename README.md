@@ -1,2 +1,2 @@
-# Ashok.github.io
+# ashok.github.io
 Place where you can Know about me...
